@@ -87,7 +87,7 @@ export default function MatchCard({ match, showLeague = false, onBet, hasPending
         )}
         {isFinished && (
           <span className="rounded-full bg-slate-700/50 px-2.5 py-1 text-xs font-semibold text-slate-400">
-            Final
+            Finalizado
           </span>
         )}
         {isScheduled && (
