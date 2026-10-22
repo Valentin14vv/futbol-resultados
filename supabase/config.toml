@@ -1,0 +1,3 @@
+[functions.football-api]
+verify_jwt = true
+entrypoint = "./functions/football-api/index.ts"
